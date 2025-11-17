@@ -1,0 +1,24 @@
+N = 1
+=== Average metrics across runs ===
+overall_accuracy: 0.8370
+balanced_accuracy: 0.8667
+FRR: 0.0444
+FAR: 0.2222
+ROC_AUC: 0.9200
+
+
+N = 2
+=== Average metrics across runs ===
+overall_accuracy: 0.8075
+balanced_accuracy: 0.8401
+FRR: 0.1126
+FAR: 0.2414
+ROC_AUC: 0.9105
+
+N = 3
+=== Average metrics across runs ===
+overall_accuracy: 0.7959
+balanced_accuracy: 0.8455
+FRR: 0.0958
+FAR: 0.2702
+ROC_AUC: 0.8739
